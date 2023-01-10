@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="248px" height="24px" viewBox="0 0 248 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6 Copy 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-510.000000, -6617.000000)">
+            <g id="Group-7" transform="translate(0.000000, 6174.000000)">
+                <g id="Group-6-Copy-2" transform="translate(511.000000, 444.000000)">
+                    <polyline id="Path-2" stroke="#000000" stroke-width="1.5" points="0 0 8.11150489 16.8562436 245.306987 16.8562436"></polyline>
+                    <g id="arrow-down-sign-to-navigate-(1)" transform="translate(243.500000, 17.000000) rotate(-90.000000) translate(-243.500000, -17.000000) translate(238.000000, 14.000000)" fill="#000000" fill-rule="nonzero">
+                        <path d="M5.49998174,6 C5.30283935,6 5.10572131,5.92797172 4.95541789,5.784218 L0.225655976,1.25831682 C-0.0752186586,0.970413351 -0.0752186586,0.503627233 0.225655976,0.215840243 C0.526408887,-0.0719467475 1.01412815,-0.0719467475 1.31502713,0.215840243 L5.49998174,4.22060796 L9.68496069,0.215980013 C9.98583533,-0.0718069773 10.4735059,-0.0718069773 10.7742345,0.215980013 C11.0752552,0.503767003 11.0752552,0.970553121 10.7742345,1.25845659 L6.0445456,5.78435777 C5.89416914,5.92813479 5.6970511,6 5.49998174,6 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
