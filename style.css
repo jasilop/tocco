@@ -771,11 +771,23 @@ color: #000;
 
 .about-one .top .nav-title {
     position: absolute;
+    width: 100%;
     bottom: 0;
     padding: 0 100px 50px;
     color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
 }
+.about-one .top .nav-title .nav-back a {
+    display: block;
+    color: #fff;
+    padding: 10px 15px;
 
+}
+.about-one .top .nav-title .nav-back a:hover {
+    color: rgba(255, 255, 255, 0.462);
+}
 .about-one .top .nav-title h1 {
     font-size: 45px;
 }
